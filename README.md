@@ -72,7 +72,7 @@ Durante el análisis se realizaron las siguientes transformaciones:
 
 ### 3️⃣ Análisis Temporal
 
-![Rating por decada](https://github.com/user-attachments/assets/335e5470-cbea-4e77-8bcf-e4de2a6f0918)
+![rating por ano](https://github.com/user-attachments/assets/1e0736a6-293b-4553-821a-fe8b0b47c97e)
 
 - Promedio de rating por año
   
